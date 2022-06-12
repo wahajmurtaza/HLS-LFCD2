@@ -31,7 +31,7 @@ Other Connector
 * RED       5V
 
 ### CODE
-```
+```python
 import Lidar from hls_lfcd2
 from time import sleep
 
