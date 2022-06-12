@@ -32,7 +32,7 @@ Other Connector
 
 ### CODE
 ```python
-import Lidar from hls_lfcd2
+from hls_lfcd2 import Lidar
 from time import sleep
 
 lidar = Lidar("COM6", angle_offset=0)
